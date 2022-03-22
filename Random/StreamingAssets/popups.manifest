@@ -1,0 +1,48 @@
+ManifestFileVersion: 0
+CRC: 3487883031
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 98370508fc53716282220d0de8f6ccba
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: def7f930cc39bfcd195c0b064234b155
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 80fd634dce403704e99b927f05214828, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 23de22b9d9088744ca05cc78e9c300f0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 40d91b5fb13a4d95a0df7d3909d566b0, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AIFA/Bundleables/UI/Popups/Popup-Example01.prefab
+- Assets/AIFA/Bundleables/UI/Popups/Popup-Example02.prefab
+Dependencies: []

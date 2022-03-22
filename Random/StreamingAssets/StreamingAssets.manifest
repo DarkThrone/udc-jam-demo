@@ -1,0 +1,14 @@
+ManifestFileVersion: 0
+CRC: 4207165421
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: uiscreens
+      Dependencies:
+        Dependency_0: popups
+    Info_1:
+      Name: popups
+      Dependencies: {}
+    Info_2:
+      Name: test_allstars
+      Dependencies: {}

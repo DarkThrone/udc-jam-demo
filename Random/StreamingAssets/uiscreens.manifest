@@ -1,0 +1,65 @@
+ManifestFileVersion: 0
+CRC: 3861544245
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9c93b394c0accb05625c1fa817e36b97
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d4522df02ba337717abfa5803d2d086a
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7abfa4f4fd6a3144e8a39124c01e6693, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ac1d5736da825794eb0ce861ecfa8ef1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0c47fe544bf7a284ba7eecd8562b0776, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: de497784d66943b8871e60afd20f406f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 210a5649e0148ea4096b652dc3fa2d4a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b266913f11be61d4fa85f69d16d37ac1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 23de22b9d9088744ca05cc78e9c300f0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 745f8a34d7435ba42b06fbd5ab5197bb, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AIFA/Bundleables/UI/Screens/UIScreen_NewTest.prefab
+- Assets/AIFA/Bundleables/UI/Screens/UIScreen_Options.prefab
+- Assets/AIFA/Resources/UI/ScreenReferences/ScreenReference_TeamConfig.asset
+- Assets/AIFA/Bundleables/UI/Screens/UIScreen_Inventory.prefab
+- Assets/AIFA/Bundleables/UI/Screens/UIScreen_Leaderboard.prefab
+- Assets/AIFA/Bundleables/UI/Screens/UIScreen_MainMenu.prefab
+- Assets/AIFA/Resources/UI/ScreenReferences/ScreenReference_Inventory.asset
+- Assets/AIFA/Bundleables/UI/Screens/UIScreen_TeamConfig.prefab
+Dependencies:
+- E:/CW/ASM/AFIA1.0/aifa/Assets/StreamingAssets/popups

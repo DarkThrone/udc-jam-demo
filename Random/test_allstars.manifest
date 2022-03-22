@@ -1,0 +1,41 @@
+ManifestFileVersion: 0
+CRC: 481083077
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 433ccf044fe717047011e77323e31e8a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e73e0b5b64aabe3463e42765ae9eed50
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AllStars/All-Stars/Models/ASMilated/Leggers/23840.fbx
+- Assets/AllStars/All-Stars/Models/Bosses/Legger/22384.fbx
+- Assets/AllStars/All-Stars/Animation/Roller_Base.fbx
+- Assets/AllStars/All-Stars/Animation/Hoverer_Base.fbx
+- Assets/AllStars/All-Stars/Models/Zombies/Leggers/320.fbx
+- Assets/AllStars/All-Stars/Models/Bosses/Roller/12384.fbx
+- Assets/AllStars/All-Stars/Models/Zombies/Leggers/424.fbx
+- Assets/AllStars/All-Stars/Models/ASMilated/Rollers/2384.fbx
+- Assets/AllStars/All-Stars/Models/Zombies/Leggers/239.fbx
+- Assets/AllStars/All-Stars/Models/Zombies/Leggers/321.fbx
+- Assets/AllStars/All-Stars/Animation/Legger_Base.fbx
+Dependencies: []
